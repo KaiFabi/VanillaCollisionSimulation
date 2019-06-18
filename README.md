@@ -23,15 +23,15 @@ PARTICLE_DISTANCE = 1.122462 * SIGMA // 2^(1/6) * SIGMA
 </p>
 
 <div align="center">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-0.png" height="500">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-1.png" height="500">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-2.png" height="500">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-3.png" height="500">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-4.png" height="500">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-5.png" height="500">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-6.png" height="500">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-7.png" height="500">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-8.png" height="500">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-0.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-1.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-2.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-3.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-4.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-5.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-6.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-7.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-8.png" height="200">
 </div>
 
 
