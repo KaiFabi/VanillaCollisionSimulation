@@ -6,10 +6,12 @@ The following example shows the collision of two solid bodies that are relativel
 
 For the simulation the following parameters were used:
 
-`N_1 = 10000`
-`N_2 = 100`
-`EPSILON = 5`
-`SIGMA = 1`
-`R_CUT = 2.5 * SIGMA`
-`dt = 0.00005`
-`PARTICLE_DISTANCE = (2)^(1/6) * SIGMA`
+```cpp
+N_1 = 10000
+N_2 = 100
+EPSILON = 5
+SIGMA = 1
+R_CUT = 2.5 * SIGMA
+dt = 0.00005
+PARTICLE_DISTANCE = (2)^(1/6) * SIGMA
+```
