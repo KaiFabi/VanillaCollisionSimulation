@@ -17,3 +17,17 @@ R_CUT = 2.5 * SIGMA
 dt = 0.00005
 PARTICLE_DISTANCE = 1.122462 * SIGMA // 2^(1/6) * SIGMA
 ```
+
+<div align="center">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-0.png" height="500">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-1.png" height="500">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_eps5-2.png" height="500">
+</div>
+
+<p align="center">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/output_dist_0p14.gif" height="500">
+</p>
+
+Compile and run the program using
+
+`gcc -O -Wall collision.c -o collision -lm` and `./automata`
