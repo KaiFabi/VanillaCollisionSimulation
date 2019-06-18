@@ -34,6 +34,22 @@ PARTICLE_DISTANCE = 1.122462 * SIGMA // 2^(1/6) * SIGMA
 <img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-8.png" height="200">
 </div>
 
+<p align="center">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/result_sim_2.gif" height="500">
+</p>
+
+<div align="center">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_1.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_2.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_3.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_4.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_5.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_6.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_7.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_8.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim2_9.png" height="200">
+</div>
+
 
 
 Compile and run the program using
