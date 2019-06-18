@@ -38,4 +38,4 @@ PARTICLE_DISTANCE = 1.122462 * SIGMA // 2^(1/6) * SIGMA
 
 Compile and run the program using
 
-`gcc -O -Wall collision.c -o collision -lm` and `./automata`
+`gcc -O -Wall collision.c -o collision -lm` and `./collision`
