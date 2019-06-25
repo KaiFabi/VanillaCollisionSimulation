@@ -2,7 +2,7 @@
 
 This code implements a collision simulation using the Lennard-Jones potential.
 
-The following example shows the collision of two solid bodies that are relatively soft. The color of each particle encodes its velocity. Using the velocity as marker for the particles' color allows to see the shockwaves that propagate through the bodies.
+The following example shows the collision of two solid bodies that are relatively soft. The color of each particle encodes its velocity. Using the velocity as marker for the particles' color allows to see the shockwaves that propagate through the bodies. It is interesting to note that the shock waves propagate at a significantly higher velocity in the medium compared to the velocity of the projectile.
 
 In order to calculate the interaction of individual particles within a certain radius more efficiently, a tree algorithm was used to speed up the search for neighboring particles. This tree algorithm is based on code snippets of the book *Numerical simulation in molecular dynamics*.
 
