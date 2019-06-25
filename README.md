@@ -21,37 +21,37 @@ PARTICLE_DISTANCE = 1.122462 * SIGMA // 2^(1/6) * SIGMA
 **Example 1**
 
 <p align="center">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/result_1.gif" height="500">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/result_1.gif" height="500">
 </p>
 
 <div align="center">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-0.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-1.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-2.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-3.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-4.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-5.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-6.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-7.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res-8.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-0.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-1.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-2.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-3.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-4.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-5.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-6.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-7.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res-8.png" height="200">
 </div>
 
 **Example 2**
 
 <p align="center">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/result_sim_2.gif" height="500">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/result_sim_2.gif" height="500">
 </p>
 
 <div align="center">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_1.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_2.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_3.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_4.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_5.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_6.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_7.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_8.png" height="200">
-<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/res_sim_2_9.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_1.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_2.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_3.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_4.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_5.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_6.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_7.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_8.png" height="200">
+<img src="https://github.com/KaiFabi/VanillaCollisionSimulation/blob/master/results/res_sim_2_9.png" height="200">
 </div>
 
 Compile and run the program using
